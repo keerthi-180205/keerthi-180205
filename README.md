@@ -1,4 +1,4 @@
-<h1 align="center">Keerthi</h1>
+<h1 align="center">Keerthi N</h1>
 <p align="center">
 Aspiring Data Scientist • Machine Learning & Deep Learning
 </p>
