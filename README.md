@@ -5,7 +5,7 @@ Aspiring Data Scientist • Building Real-World AI Systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Scientist;Machine+Learning;Deep+Learning;RAG+Systems;Building+AI+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;Deep+Learning;RAG+Systems;AI+Projects&center=true&width=420&height=40">
 </p>
 
 <p align="center">
@@ -31,44 +31,31 @@ Interested in solving practical problems using machine learning, deep learning, 
 
 ---
 
-## Tech Stack
+## Featured Projects
 
-**Machine Learning & Data**
+### RAG AI Teaching Assistant
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-</p>
+Converts video lectures into a queryable AI system using embeddings, semantic search, and LLMs.
 
-**Tools & Backend**
+### Automated Data Analytics System
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-</p>
+AI-powered system that analyzes datasets, selects ML models, and generates actionable insights.
 
-**Programming & Web**
+### Deepfake Detection AI (Ongoing)
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
+Detects AI-generated images and videos using computer vision models with explainable outputs.
+
+### Autonomous Trajectory Prediction (Ongoing)
+
+Machine learning system for predicting movement paths in autonomous environments.
 
 ---
 
-## Featured Projects
+## Tech Stack
 
-* RAG-Based AI Teaching Assistant
-* Automated Data Analytics System
-* Media Authenticity & Deepfake Detection (ongoing)
-* Autonomous Trajectory Prediction (ongoing)
-
-See pinned repositories for detailed documentation and demos.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,sklearn,tensorflow,mysql,git,github,html,css" />
+</p>
 
 ---
 
@@ -85,7 +72,6 @@ See pinned repositories for detailed documentation and demos.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthi-180205&theme=tokyo-night" />
 </p>
-
 
 ---
 
