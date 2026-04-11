@@ -75,6 +75,20 @@ Machine learning system for predicting movement paths in autonomous environments
 
 ---
 
+---
+
+## Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sudoku-Problem%20Solving-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rubik's%20Cube-Speedcubing-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Megaminx-Advanced%20Puzzles-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chess-Strategic%20Thinking-black?style=for-the-badge" />
+</p>
+
+
+---
+
 ## Goal
 
 To become a Data Scientist capable of building production-level AI systems that solve real-world problems.
