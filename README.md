@@ -23,6 +23,18 @@ Interested in solving practical problems using machine learning, deep learning, 
 
 ---
 
+---
+
+## Resume
+
+<p align="center">
+  <a href="https://github.com/keerthi-180205/resume" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## Current Work
 
 * Media Authenticity & Deepfake Detection System
@@ -97,5 +109,17 @@ To become a Data Scientist capable of building production-level AI systems that 
 
 ## Contact
 
-YouTube: Coding Kannadiga
-LinkedIn: (add soon)
+<p align="center">
+  <a href="https://youtube.com/@CodingKannadiga" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Coding%20Kannadiga-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE](https://www.instagram.com/_codingkannadiga?igsh=MTNucXp1NnlseW5xbw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Connect-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
