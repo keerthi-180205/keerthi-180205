@@ -110,11 +110,11 @@ To become a Data Scientist capable of building production-level AI systems that 
 ## Contact
 
 <p align="center">
-  <a href="https://youtube.com/@CodingKannadiga" target="_blank">
+  <a href="https://youtube.com/@codingkannadiga-18?si=V_SoDuvlRB5rEX2o" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Coding%20Kannadiga-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE](https://www.instagram.com/_codingkannadiga?igsh=MTNucXp1NnlseW5xbw==" target="_blank">
+  <a href="https://www.instagram.com/_codingkannadiga?igsh=MTNucXp1NnlseW5xbw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Connect-purple?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
