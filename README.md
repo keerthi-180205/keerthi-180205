@@ -19,6 +19,16 @@
 
 ---
 
+## 📄 Resume
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/keerthi-180205/resume/main/Keerthi_N_Resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ##  Tech Stack
 
 <p align="center">
