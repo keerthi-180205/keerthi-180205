@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🔭 I build **AI-powered and data-driven systems** to solve real-world problems  
 - 🤖 Currently working on **Deepfake Detection & RAG-based AI Systems**  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,git,github,html,css,js" />
@@ -27,30 +27,30 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🧠 Deepfake Detection System (Ongoing)
+### Deepfake Detection System (Ongoing)
 - Detects AI-generated images & videos using Computer Vision  
 - Focus on **Explainable AI outputs**  
 - Tech: Python, OpenCV, Deep Learning  
 
 ---
 
-### 🤖 RAG AI Teaching Assistant
+### RAG AI Teaching Assistant
 - Converts video lectures into a **queryable AI system**  
 - Uses embeddings + semantic search + LLMs  
 - Enables intelligent Q&A from content  
 
 ---
 
-### 📊 Automated Data Analytics System
+### Automated Data Analytics System
 - AI system that analyzes datasets & selects ML models  
 - Generates **actionable insights automatically**  
 - Built using Python & data science libraries  
 
 ---
 
-### 🚗 Autonomous Trajectory Prediction (Ongoing)
+### Autonomous Trajectory Prediction (Ongoing)
 - Predicts movement paths in autonomous environments  
 - Focus on ML-based predictive modeling  
 
@@ -88,12 +88,12 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://www.linkedin.com/in/keerthi-n-6402172b3/" />
   </a>
   <a href="https://github.com/keerthi-180205">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://github.com/keerthi-180205" />
   </a>
   <a href="https://youtube.com/@codingkannadiga">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://youtube.com/@codingkannadiga-18?si=LPNXZhG3kZ16EDw4" />
   </a>
 </p>
