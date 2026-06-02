@@ -1,77 +1,62 @@
-<h1 align="center">Keerthi N</h1>
+<h1 align="center">Hi 👋, I'm Keerthi N</h1>
+<h3 align="center">Data Science & ML Developer | Building Real-World AI Systems | Open Source Contributor</h3>
 
 <p align="center">
-Aspiring Data Scientist • Building Real-World AI Systems
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;Deep+Learning;RAG+Systems;AI+Projects&center=true&width=420&height=40">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Active-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Learning-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG%20Systems-Building-purple?style=for-the-badge"/>
-</p>
-
----
-
-## About
-
-Computer Science Engineering student focused on building real-world AI and data-driven systems.
-Interested in solving practical problems using machine learning, deep learning, and data analysis.
-
----
-
----
-
-## Resume
-
-<p align="center">
-  <a href="https://github.com/keerthi-180205/resume" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" />
+  <a href="https://github.com/keerthi-180205">
+    <img src="https://komarev.com/ghpvc/?username=keerthi-180205&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
-## Current Work
+## 🚀 About Me
 
-* Media Authenticity & Deepfake Detection System
-* RAG-based AI Assistant using LLMs
-* Machine Learning and Data Analysis projects
-
----
-
-## Featured Projects
-
-### RAG AI Teaching Assistant
-
-Converts video lectures into a queryable AI system using embeddings, semantic search, and LLMs.
-
-### Automated Data Analytics System
-
-AI-powered system that analyzes datasets, selects ML models, and generates actionable insights.
-
-### Deepfake Detection AI (Ongoing)
-
-Detects AI-generated images and videos using computer vision models with explainable outputs.
-
-### Autonomous Trajectory Prediction (Ongoing)
-
-Machine learning system for predicting movement paths in autonomous environments.
+- 🔭 I build **AI-powered and data-driven systems** to solve real-world problems  
+- 🤖 Currently working on **Deepfake Detection & RAG-based AI Systems**  
+- 📊 Strong focus on **Machine Learning, Data Science & System Design**  
+- 🌱 Continuously improving in **Deep Learning & Scalable AI Systems**  
+- 🤝 Looking to contribute to **Open Source (SSOC, ML projects)**  
 
 ---
 
-## Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sklearn,tensorflow,mysql,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,git,github,html,css,js" />
 </p>
 
 ---
 
-## GitHub Stats
+## 🔥 Featured Projects
+
+### 🧠 Deepfake Detection System (Ongoing)
+- Detects AI-generated images & videos using Computer Vision  
+- Focus on **Explainable AI outputs**  
+- Tech: Python, OpenCV, Deep Learning  
+
+---
+
+### 🤖 RAG AI Teaching Assistant
+- Converts video lectures into a **queryable AI system**  
+- Uses embeddings + semantic search + LLMs  
+- Enables intelligent Q&A from content  
+
+---
+
+### 📊 Automated Data Analytics System
+- AI system that analyzes datasets & selects ML models  
+- Generates **actionable insights automatically**  
+- Built using Python & data science libraries  
+
+---
+
+### 🚗 Autonomous Trajectory Prediction (Ongoing)
+- Predicts movement paths in autonomous environments  
+- Focus on ML-based predictive modeling  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthi-180205&show_icons=true&theme=tokyonight" />
@@ -81,45 +66,34 @@ Machine learning system for predicting movement paths in autonomous environments
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthi-180205&theme=tokyonight" />
 </p>
 
+---
+
+## 📊 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthi-180205&theme=tokyo-night" />
 </p>
 
 ---
 
+## 🎯 Current Goals
+
+- 🚀 Contribute actively to **Open Source (SSOC)**
+- 🧠 Build **production-level AI systems**
+- 💼 Secure **ML/Data Science Internship**
+
 ---
 
-## Interests
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sudoku-Problem%20Solving-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rubik's%20Cube-Speedcubing-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Megaminx-Advanced%20Puzzles-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chess-Strategic%20Thinking-black?style=for-the-badge" />
-</p>
-
-
----
-
-## Goal
-
-To become a Data Scientist capable of building production-level AI systems that solve real-world problems.
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://youtube.com/@codingkannadiga-18?si=V_SoDuvlRB5rEX2o" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Coding%20Kannadiga-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  <a href="https://www.instagram.com/_codingkannadiga?igsh=MTNucXp1NnlseW5xbw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Connect-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/keerthi-180205">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://youtube.com/@codingkannadiga">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
